@@ -1,0 +1,4 @@
+/* Hero: tinggi sementara untuk uji anchor dan scroll. Layout final dibuat di Phase 08. */
+.section--hero {
+    min-height: 100svh;
+}

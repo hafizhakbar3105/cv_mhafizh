@@ -1,0 +1,4 @@
+/* About: tinggi sementara untuk uji anchor dan scroll. Layout final dibuat di Phase 09. */
+.section--about {
+    min-height: 60svh;
+}

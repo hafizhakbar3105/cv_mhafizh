@@ -1,0 +1,4 @@
+/* Certificates: tinggi sementara untuk uji anchor dan scroll. Layout final dibuat di Phase 11. */
+.section--certificates {
+    min-height: 60svh;
+}
